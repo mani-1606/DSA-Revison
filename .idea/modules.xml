@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA practice.iml" filepath="$PROJECT_DIR$/.idea/DSA practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode Problems/Leetcode Problems.iml" filepath="$PROJECT_DIR$/Leetcode Problems/Leetcode Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList Problems/LinkedList Problems.iml" filepath="$PROJECT_DIR$/LinkedList Problems/LinkedList Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/Numbers Problems/Numbers Problems.iml" filepath="$PROJECT_DIR$/Numbers Problems/Numbers Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
     </modules>
